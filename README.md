@@ -10,7 +10,7 @@ Odoo Stock Logistic Warehouse
  - 把所有产品从一个库位移动至另一个库位
  - 管理产品分类（聚合等）
  
- http://www.www888.org(http://www.www888.org)
+ [http://www.www888.org](http://www.www888.org)
 
 This project aim to deal with modules related to the management of warehouses. You'll find modules that:
 
