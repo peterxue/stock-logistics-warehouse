@@ -4,6 +4,13 @@
 Odoo Stock Logistic Warehouse
 =============================
 
+本项目致力于实现仓库管理相关的模块。相关的模块实现以下功能：
+
+ - 增加各类可能，简化库存管理
+ - 把所有产品从一个库位移动至另一个库位
+ - 管理产品分类（聚合等）
+ 
+ [http://www.www888.org](http://www.www888.org)
 
 This project aim to deal with modules related to the management of warehouses. You'll find modules that:
 
